@@ -22,9 +22,9 @@ Our current goal is to sit the exam on <code>January 29th, 2022</code>
 
 ## Resources
 
-We will primarily use Stephane Maarek's course, ["AWS Certified DevOps Engineer Professional 2021 - Hands On1"](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/learn/lecture/16349474#overview), on Udemy.
+We will primarily use Stephane Maarek's course, ["AWS Certified DevOps Engineer Professional 2021 - Hands On1"](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/), on Udemy.
 
-With regards to practice tests, we will also use Stephane Maarek, found [here](https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exam-dop/learn/quiz/4724020#overview).
+With regards to practice tests, we will also use Stephane Maarek, found [here](https://www.udemy.com/course/aws-certified-devops-engineer-professional-practice-exam-dop/).
 
 ---
 
@@ -44,6 +44,7 @@ With regards to practice tests, we will also use Stephane Maarek, found [here](h
 - January:
     - 3: completed Section 7 Number 208
     - 10: completed Section 8 Number 225 - End Of Course!
+    - <code>There will probably be some additional meetings added as needed</code>
     - <code>12: Meet and cover 25 questions from practice exam</code>
     - <code>17: Take a full length practice test</code>
     - <code>19: Meet and cover 25 questions from practice exam</code>
