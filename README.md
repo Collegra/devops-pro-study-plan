@@ -31,7 +31,7 @@ With regards to practice tests, we will also use Stephane Maarek, found [here](h
 ## Timeline
 
 - November:
-    - 1: completed Section 3 Number 15
+    - 1: completed Section 3 Number 15 <html>&#9745</html>
     - 8: completed Section 3 Number 48
     - 15: completed Section 4 Number 70
     - 22: completed Section 4 Number 87 
